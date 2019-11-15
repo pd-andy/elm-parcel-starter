@@ -5,5 +5,8 @@
   "main": "",
   "scripts": {},
   "author": "",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "elm": "^0.19.1-3"
+  }
 }
