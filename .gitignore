@@ -1,0 +1,9 @@
+# Parcel build directories
+.cache
+dist
+
+# Node modules
+node_modules
+
+# Elm build artifacts
+elm-stuff
