@@ -4,8 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "dev": "npx parcel src/index.html",
-    "deploy": "npx parcel build src/index.html && npx gh-pages -d dist -b master"
+    "dev": "parcel src/index.html",
+    "deploy": "parcel build src/index.html && gh-pages -d dist -b master"
   },
   "author": "",
   "license": "",
